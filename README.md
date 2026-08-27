@@ -8,7 +8,7 @@
 
 I'm a Computer Science undergraduate with a growing interest in building practical software and data-driven solutions.
 
-I've worked on projects involving software development, databases, data analysis, machine learning, REST APIs, and cloud deployment. I recently completed a one-month remote Data Science internship at Progree, where I worked on web scraping, customer segmentation, time-series forecasting, and model interpretability.
+I've worked on projects involving software development, databases, data analysis, machine learning, REST APIs, and cloud deployment. I'm currently completing a one-month remote Data Science internship at Progree, where I've worked on web scraping, customer segmentation, time-series forecasting, and model interpretability.
 
 ## 🛠️ Technical Skills
 
