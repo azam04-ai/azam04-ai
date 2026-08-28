@@ -55,7 +55,6 @@ I'm currently completing a one-month remote Data Science internship at **Progree
 ## 🌱 Currently Learning
 
 - Cybersecurity Fundamentals
-- Governance, Risk & Compliance (GRC)
 - Cloud Technologies
 - Data Science & Machine Learning
 - Git & GitHub
@@ -66,7 +65,6 @@ I'm currently completing a one-month remote Data Science internship at **Progree
 - Data Science & Machine Learning
 - Artificial Intelligence
 - Cloud Technologies
-- Cybersecurity & GRC
 
 ## 📫 Connect With Me
 
