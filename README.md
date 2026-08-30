@@ -15,25 +15,30 @@ I'm currently completing a one-month remote Data Science internship at **Progree
 ## 🛠️ Technical Skills
 
 ### Languages
+
 - Java
 - Python
 - SQL
 
 ### Data Science & AI
+
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Machine Learning
 - Time Series Analysis
+- SHAP
 
 ### Software Development
+
 - REST APIs
 - Database Development
 - Software Testing
 - GUI Development
 
 ### Cloud & Tools
+
 - Microsoft Azure
 - Git & GitHub
 - Visual Studio Code
@@ -43,22 +48,30 @@ I'm currently completing a one-month remote Data Science internship at **Progree
 ## 📌 Featured Projects
 
 ### 📊 Data Science
-- **Automated Web Scraping & Data Extraction Pipeline**
-- **Customer Segmentation using PCA & K-Means**
-- **Airline Passenger Demand Forecasting using SARIMA & SHAP**
+
+**[Automated Web Scraping & Data Extraction Pipeline](https://github.com/azam04-ai/progree-web-scraping-pipeline)**  
+Python-based automated web scraping, data cleaning, processing, visualization, and structured output pipeline.
+
+**[Customer Segmentation using PCA & K-Means](https://github.com/azam04-ai/progree-customer-segmentation)**  
+Unsupervised machine learning project using PCA and K-Means to identify meaningful customer segments from wholesale purchasing behavior.
+
+**[Airline Passenger Demand Forecasting using SARIMA & SHAP](https://github.com/azam04-ai/progree-airline-demand-forecasting)**  
+Time-series forecasting project using SARIMA, stationarity analysis, SHAP-based interpretability, and an interactive Plotly dashboard.
 
 ### 💻 Software Development
-**PriceXpert - AI Based Grocery Advisor & Price Comparison System (Final Year Project)**
-- **Restaurant Management System**
-- **Car Parking System**
-- Other academic and personal projects
+
+**PriceXpert — AI-Based Grocery Advisor & Price Comparison System**  
+Final Year Project focused on AI-assisted grocery recommendations and price comparison.
+
+**Restaurant Management System**
+
+**Car Parking System**
 
 ## 🌱 Currently Learning
 
 - Cloud Technologies
 - Data Science & Machine Learning
 - Git & GitHub
-- Cybersecurity Fundamentals
 
 ## 🎯 Areas of Interest
 
