@@ -48,16 +48,17 @@ I'm currently completing a one-month remote Data Science internship at **Progree
 - **Airline Passenger Demand Forecasting using SARIMA & SHAP**
 
 ### 💻 Software Development
+**PriceXpert - AI Based Grocery Advisor & Price Comparison System (Final Year Project)**
 - **Restaurant Management System**
 - **Car Parking System**
 - Other academic and personal projects
 
 ## 🌱 Currently Learning
 
-- Cybersecurity Fundamentals
 - Cloud Technologies
 - Data Science & Machine Learning
 - Git & GitHub
+- Cybersecurity Fundamentals
 
 ## 🎯 Areas of Interest
 
